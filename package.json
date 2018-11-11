@@ -1,0 +1,15 @@
+{
+  "name": "redux-alone",
+  "version": "1.0.0",
+  "description": "Prova de conceito para utilização de REDUX em uma aplicação.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Pereira",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "redux": "^4.0.1"
+  }
+}
